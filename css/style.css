@@ -600,6 +600,7 @@ button:active {
    ======================== */
 .saved {
   margin-top: 30px;
+  width: 45%;
 }
 
 .saved h3 {
