@@ -1,4 +1,4 @@
-# 🔐 Password Generator & Manager
+# 🔐 Password Generator & Manager [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A web-based application that allows users to **sign up, log in, generate strong passwords, and manage their credentials** securely.  
 The project is built using **HTML/CSS, JavaScript, Firebase Authentication, and Firestore Database**.
@@ -43,19 +43,19 @@ The project is built using **HTML/CSS, JavaScript, Firebase Authentication, and 
 
 ## 📂 Project Structure
 
-/public
-│── index.html # Login page
-│── signup.html # Signup page
-│── home.html # Dashboard with navigation
-│── password-manager.html # Manage credentials
-│── css/
-│ └── style.css # Common styles
-│── js/
-│ ├── firebase-config.js
-│ ├── signup.js
-│ ├── login.js
-│ ├── password-manager.js
-│ └── utils.js
+/public<br>
+│── index.html # Login page<br>
+│── signup.html # Signup page<br>
+│── home.html # Dashboard with navigation<br>
+│── password-manager.html # Manage credentials<br>
+│── css/<br>
+│ └── style.css # Common styles<br>
+│── js/<br>
+│ ├── firebase-config.js<br>
+│ ├── signup.js<br>
+│ ├── login.js<br>
+│ ├── password-manager.js<br>
+│ └── utils.js<br>
 
 
 ---
